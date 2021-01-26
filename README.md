@@ -8,3 +8,7 @@
 6- git commit -amend -->podemos cambiar los comentarios del ultimo commit
 7- git log --> vemos los commit realizados
 8- git checkout -b rama-herores --> creamos una nueva rama u nos posicionamos sobre ella
+9- git checkout master -->regresamos a la rama master
+10- git branch -d rama-borrar
+
+demos
